@@ -3,22 +3,22 @@ import { motion } from "framer-motion";
 const projects = [
   {
     title: "GYM MANAGEMENT (My first Project)",
-    image: "src/pictures/favpng_dumbbell-icon.png",
+    image: "/pictures/favpng_dumbbell-icon.png",
     link: "https://github.com/Amiur26/Muscle-Freak-Gym-management-system",
   },
   {
     title: "EPL MATCH PREDICTION & ECOMMERCE",
-    image: "src/pictures/pngegg.png",
+    image: "/pictures/pngegg.png",
     link: "https://github.com/Amiur26/EPL_MATCH_PREDICTION_WEBSITE-FULL_STACK-/tree/main",
   },
   {
     title: "7 SEGMENT LED DISPLAY",
-    image: "src/pictures/output-onlinepngtools.png",
-    link: "#",
+    image: "/pictures/output-onlinepngtools.png",
+    link: "#projects",
   },
   {
     title: "VOICE,FACE & HAND GESTURE CONTROL",
-    image: "src/pictures/imgbin_human-voice-computer-icons-free-content-png (1).png",
+    image: "/pictures/imgbin_human-voice-computer-icons-free-content-png (1).png",
     link: "https://github.com/Amiur26/Voice-Hand-Face-Gesture-Controls",
   },
 ];
