@@ -2,16 +2,10 @@ import { RevealOnScroll } from "../RevealOnScroll";
 
 export const About = () => {
   const Skills = [
-    "React",
-    "Vue",
-    "TailwindCSS",
-    "Python",
-    "Java",
-    "C++",
-    "C", 
-    "ARMv7",
-    "Django",
-    "RestFramework"
+    "Programming Languages:Python, Java, C",
+    "Web Development/App Development: React, Vue, TailwindCSS, Django, REST Framework",
+    "Systems & Hardware: ARMv7 (Embedded Systems) ",
+    "Specializations:Machine Learning, AI Development, Full Stack Development "
     
   ];
 

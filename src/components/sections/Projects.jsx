@@ -1,5 +1,6 @@
 import { motion } from "framer-motion";
 
+
 const projects = [
   {
     title: "GYM MANAGEMENT (My first Project)",
@@ -20,6 +21,16 @@ const projects = [
     title: "VOICE,FACE & HAND GESTURE CONTROL",
     image: "/pictures/imgbin_human-voice-computer-icons-free-content-png (1).png",
     link: "https://github.com/Amiur26/Voice-Hand-Face-Gesture-Controls",
+  },
+  {
+    title: "Identifying-Drug-Use-Risk-Factors-In-Bangladesh-via-Clustering-and-Classification",
+    image: "/pictures/Drug.png",
+    link: "https://github.com/Amiur26/Identifying-Drug-Use-Risk-Factors-In-Bangladesh-via-Clustering-and-Classification",
+  },
+  {
+    title: "AI POWERED RESUME PARSING AND RANKING",
+    image: "/pictures/icon.png",
+    link: "https://github.com/Amiur26/AI-powered-resume-parsing-and-ranking",
   },
 ];
 
