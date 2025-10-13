@@ -6,7 +6,7 @@ const SocialLinks = () => {
       <div className="flex gap-10">
         
         <a
-          href="https://www.linkedin.com/in/your-profile" 
+          href="https://www.linkedin.com/in/amiur-rahman-555018226/" 
           target="_blank"
           rel="noopener noreferrer"
           className="text-blue-400 hover:text-blue-500 transition duration-300 text-5xl"
