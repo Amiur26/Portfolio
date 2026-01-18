@@ -13,10 +13,10 @@ export const Home = () => {
           </h1>
 
           <p className="tex-gray-400 text-lg mb-8 max-w-lg mx-auto">
-            I'm a final-year Computer Science student at NSU 
-            with a passion for building innovative and efficient solutions.
-             I specialize in web development, machine learning, and software engineering,
-             always striving to bridge the gap between creativity and technology.
+            Computer Science Graduate from NSU with a focus on engineering scalable, 
+            high-performance solutions. I specialize in NLP, AI, Web Development, Machine Learning, 
+            and Software Engineering, combining technical rigor with a creative approach to problem-solving. 
+            I am dedicated to building efficient systems that bridge the gap between complex technology and user-centric design.
           </p>
           <div className="flex justify-center space-x-4">
             <a

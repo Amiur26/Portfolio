@@ -32,6 +32,16 @@ const projects = [
     image: "/pictures/icon.png",
     link: "https://github.com/Amiur26/AI-powered-resume-parsing-and-ranking",
   },
+  {
+    title: "Carebridge: A literature informed Multi User Medication Management System with Caregiver Escalation",
+    image: "/pictures/Carebridge_logo.png",
+    link: "https://github.com/Amiur26/carebridge",
+  },
+  {
+    title: "BANGLISH Natural Language processing",
+    image: "/pictures/ben.png",
+    link: "-",
+  },
 ];
 
 const Projects = () => {

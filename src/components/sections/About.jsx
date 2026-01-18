@@ -5,7 +5,7 @@ export const About = () => {
     "Programming Languages:Python, Java, C",
     "Web Development/App Development: React, Vue, TailwindCSS, Django, REST Framework",
     "Systems & Hardware: ARMv7 (Embedded Systems) ",
-    "Specializations:Machine Learning, AI Development, Full Stack Development "
+    "Specializations:Machine Learning, AI Development, Full Stack Development, Natural Language Processing"
     
   ];
 
@@ -52,11 +52,11 @@ export const About = () => {
               <h3 className="text-xl font-bold mb-4"> 🏫 Bachelor of Science in Computer Science and Engineering (BSCSE) </h3>
               <ul className="list-disc list-inside text-gray-300 space-y-2">
                 <li>
-                  <strong> Final Year Student of North South University, Computer Science Department </strong> 
+                  <strong> Graduate Student of North South University, Computer Science Department </strong> 
                   (2021-2025)
                 </li>
                 <li>
-                  Relevant Coursework: Programming Language-I (C), Object Oriented Programming (Java), Data Structures and Algorithms (C++), Discrete Mathematics, Junior Design, Introduction to Linear Algebra, Calculus and Analytic Geometry
+                  Relevant Coursework: Programming Language-I (C), Object Oriented Programming (Java), Data Structures and Algorithms (C++), Discrete Mathematics, Junior Design, Introduction to Linear Algebra, Calculus and Analytic Geometry, Artificial Intelligence, Machine Learning, Natural Language Processing
                  
                 </li>
               </ul>
