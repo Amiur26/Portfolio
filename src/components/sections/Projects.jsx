@@ -38,9 +38,14 @@ const projects = [
     link: "https://github.com/Amiur26/carebridge",
   },
   {
-    title: "BANGLISH Natural Language processing",
-    image: "/pictures/ben.png",
-    link: "-",
+    title: "BANGLISH transliteration",
+    image: "/pictures/ben2.png",
+    link: "https://github.com/Amiur26/Banglish-transliteration",
+  },
+   {
+    title: "Machine Learning for  Accurate GSM Prediction in Single Jersey Knit Fabric with Explainable AI",
+    image: "/pictures/Tex.png",
+    link: "https://github.com/Amiur26/Machine-Learning-for-Accurate-GSM-Prediction-in-Single-Jersey-Knit-Fabric-with-Explainable-AI",
   },
 ];
 
